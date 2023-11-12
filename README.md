@@ -1,12 +1,12 @@
 # ¡Hola! 👋
 
-¡Bienvenido(a) a mi perfil de GitHub! Soy Gabriel, futuro desarrollador de Software 🚀
+¡Bienvenido(a) a mi perfil de GitHub! Soy Gabriel, futuro desarrollador de Software 💻
 
 ## Sobre mí 🌱
 
 Soy un estudiante de Ingenieria Civil en Informatica y Telecomunicaciones🎓, apasionado por la tecnología y siempre en búsqueda de oportunidades para aprender y mejorar. Mi enfoque actual es en C++ y Python, pero constantemente me encuentro en busca de nuevas tecnologías y lenguajes para aprender.
 
-## Habilidades 🚀
+## Habilidades 🛠️
 
 - **Lenguajes de Programación:** C++, Python
 
