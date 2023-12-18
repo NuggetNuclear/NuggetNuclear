@@ -8,7 +8,11 @@ Soy un estudiante de Ingenieria Civil en Informatica y Telecomunicaciones🎓, a
 
 ## Habilidades 🛠️
 
-- **Lenguajes de Programación:** C++, Python
+- **Lenguajes y Tecnologías:** C++, Python
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,cpp,python"/>
+  </a>
 
 ## Intereses y Futuro 🚀
 
