@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido(a) a mi perfil de GitHub! Soy Gabriel, futuro desarrollador de Software 💻
+¡Bienvenido(a) a mi perfil de GitHub! Soy Gabriel, futuro Ingeniero en Informatica y Telecomunicaciones 💻
 
 ## Sobre mí 🌱
 
