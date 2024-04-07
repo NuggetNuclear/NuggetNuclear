@@ -11,7 +11,7 @@ Soy un estudiante de Ingenieria Civil en Informatica y Telecomunicaciones🎓, a
 - **Lenguajes:**
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python"/>
   </a>
   
 - **Tecnologias:**
@@ -25,7 +25,7 @@ Soy un estudiante de Ingenieria Civil en Informatica y Telecomunicaciones🎓, a
 - **Actualmente me interesa aprender:**
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,c,cs"/>
+    <img src="https://skillicons.dev/icons?i=c,cs"/>
   </a>
 
 
