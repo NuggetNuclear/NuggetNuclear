@@ -34,7 +34,6 @@ Soy un estudiante de Ingenieria Civil en Informatica y Telecomunicaciones🎓, a
 Si deseas contactarme puedes hacerlo a través de:
 
 - **Correo Electrónico:** gabriel.gonzalezl@outlook.com
-- **Twitter:** gvboo_1
 - **Instagram:** gvboo_1
 
 ¡Gracias por visitar mi perfil! ¡Espero que encuentres interesante mi viaje de aprendizaje y mis proyectos! No dudes en contactarme si tienes preguntas o sugerencias.
