@@ -8,16 +8,16 @@ Soy un estudiante de Ingenieria Civil en Informatica y Telecomunicaciones🎓, a
 
 ## Habilidades 🛠️
 
-- **Lenguajes:**
+- **Lenguajes con los que he desarrollado:**
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python"/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js"/>
   </a>
   
-- **Tecnologias:**
+- **Tecnologias que manejo:**
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,obs"/>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,postgresql,mongodb,git"/>
   </a>
 
 ## Intereses y Futuro 🚀
@@ -25,7 +25,7 @@ Soy un estudiante de Ingenieria Civil en Informatica y Telecomunicaciones🎓, a
 - **Actualmente me interesa aprender:**
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs"/>
+    <img src="https://skillicons.dev/icons?i=htmx"/>
   </a>
 
 
